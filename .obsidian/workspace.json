@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "d22e0c112e150633",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d30798c0c2c9987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb47c92b4b8414a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe4Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReadMe4Obsidian"
+            }
+          },
+          {
+            "id": "afe3cf8a29adb4c3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/7. 方舟计划/家庭应急物资储备清单.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "家庭应急物资储备清单"
+            }
+          },
+          {
+            "id": "080d53bb72891123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/3.Rebuild/Rebuild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rebuild"
+            }
+          },
+          {
+            "id": "c10c8d4f76bafed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/2.Survival/2.3.Shelter/Shelter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shelter"
+            }
+          },
+          {
+            "id": "271d2627248ab829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/4.Technology/支线任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "支线任务"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "015100e3c2fc4e30",
+    "type": "split",
+    "children": [
+      {
+        "id": "784f3b34464bda76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828cd8a3ce1161b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3d6d9b1c9adc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c0bd6828bf926ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da2316441079d933",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74317882c01de2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aae923ac1faa6df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDF/3.Knowledge/科技树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 科技树"
+            }
+          },
+          {
+            "id": "ef378235a06a2de1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDF/3.Knowledge/科技树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 科技树"
+            }
+          },
+          {
+            "id": "2f5a613ff6fc625b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61a8c3ed48f94ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PDF/3.Knowledge/科技树.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 科技树"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "828cd8a3ce1161b6",
+  "lastOpenFiles": [
+    "PDF/4.Technology/支线/木工全书 (英国DK出版社).pdf",
+    "PDF/4.Technology/支线/木工从新手到高手.pdf",
+    "PDF/4.Technology/木工从新手到高手.pdf",
+    "PDF/4.Technology/支线/[草编制作技法].唐家路.扫描版.pdf",
+    "PDF/4.Technology/支线",
+    "PDF/2.Survival/2.3.Shelter/Shelter.md",
+    "PDF/3.Rebuild/参考资料.md",
+    "PDF/3.Rebuild/Rebuild.md",
+    "ReadMe4Obsidian.md",
+    "PDF/7. 方舟计划/方舟计划.md",
+    "PDF/7. 方舟计划/家庭应急物资储备清单.pdf",
+    "PDF/4.Technology/支线任务.md",
+    "PDF/4.Technology/未来?.md",
+    "PDF/4.Technology/1. 农耕生存手册.md",
+    "PDF/7. 方舟计划/火种.md",
+    "PDF/7. 方舟计划/物资.md",
+    "README.md",
+    "PDF/2.Survival/2.3.Shelter",
+    "Novel/碳基生物大联盟.md",
+    "PDF/2.Survival/2.1.Water/Water.md",
+    "PDF/2.Survival/2.2.Food/Food.md",
+    "PDF/2.Survival/2.2.Food/钓鱼方法大全.pdf",
+    "PDF/2.Survival/2.2.Food/野外维生食物.pdf",
+    "PDF/4.Technology/0. 科技树.md",
+    "PDF/2.Survival/Alternatives/SDU新手指南.pdf",
+    "PDF/2.Survival/Alternatives/SDU新手指南(1).pdf",
+    "PDF/2.Survival/地下水源的勘察和土法打井.Water/Water.md",
+    "Novel/Epic.md",
+    "PDF/4.Technology/1.1 氮肥.md",
+    "PDF/5. Material/培育硝石.md",
+    "PDF/5. Material/硝酸钾.md",
+    "PDF/6.Electronic/铅酸电池.md",
+    "PDF/6.Electronic/Electronic.md",
+    "PDF/5. Material/硫酸.md",
+    "PDF/5. Material/Index.md",
+    "PDF/4.Technology/2. 快速步入工业社会.md"
+  ]
+}
