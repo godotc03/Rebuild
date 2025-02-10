@@ -55,7 +55,9 @@ https://www.youtube.com/watch?v=C_uTzhla8OE&list=PLbm1sHwXzAxP6POis8WznYpOKJyGOJ
 
 [[Shelter]]
 ## 2.1.3 第一个月
-参考荒野求生
+[[Survival_30D]]
+
+参考荒野求生, 但你的生存处境会更难,因为不仅需要应对来自自然的威胁,还要面临来自同类的威胁.
 
 ## 2.1.4 第一年
 参考离线生活的人们.

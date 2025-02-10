@@ -8,33 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afb47c92b4b8414a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe4Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReadMe4Obsidian"
-            }
-          },
-          {
-            "id": "afe3cf8a29adb4c3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/7. 方舟计划/家庭应急物资储备清单.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "家庭应急物资储备清单"
-            }
-          },
-          {
-            "id": "080d53bb72891123",
+            "id": "276f5dbd85e115a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,31 +22,59 @@
             }
           },
           {
-            "id": "c10c8d4f76bafed1",
+            "id": "147c2caaae2964e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDF/2.Survival/2.3.Shelter/Shelter.md",
+                "file": "PDF/2.Survival/Survival.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shelter"
+              "title": "Survival"
             }
           },
           {
-            "id": "271d2627248ab829",
+            "id": "2975271fc7e5c1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDF/4.Technology/支线任务.md",
+                "file": "PDF/2.Survival/Survival_Gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "支线任务"
+              "title": "Survival_Gemini"
+            }
+          },
+          {
+            "id": "00317d069852a9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/2.Survival/Survival_Gemini.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Survival_Gemini"
+            }
+          },
+          {
+            "id": "8b8ac71536b948fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe4Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReadMe4Obsidian"
             }
           }
         ],
@@ -95,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -217,43 +220,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "828cd8a3ce1161b6",
+  "active": "8b8ac71536b948fe",
   "lastOpenFiles": [
+    "PDF/2.Survival/Survival_30D.md",
+    "Novel/碳基生物大联盟.md",
+    "Novel/Epic.md",
+    "ReadMe4Obsidian.md",
+    "PDF/2.Survival/Survival_Gemini.md",
+    "PDF/4.Technology/Technology_Gemini.md",
+    "PDF/2.Survival/Survival.md",
+    "PDF/2.Survival/Alternatives/硬核生存指南.pdf",
+    "PDF/4.Technology/0. 科技树.md",
+    "README.md",
+    "PDF/3.Rebuild/Rebuild_gemini.md",
+    "PDF/3.Rebuild/Rebuild.md",
+    "PDF/3.Rebuild/参考资料.md",
+    "PDF/6.Electronic/铅酸电池.md",
+    "PDF/6.Electronic/Electronic_deepseek.md",
+    "PDF/6.Electronic/Electronic.md",
+    "PDF/2.Survival/东京防灾.pdf",
+    "PDF/2.Survival/非常时期城市生存指南.pdf",
+    "PDF/2.Survival/2.1.Water/Water.md",
+    "PDF/2.Survival/2.1.Water/Water_deepseek.md",
+    "PDF/2.Survival/2.2.Food/Food_deepseek.md",
+    "PDF/2.Survival/2.2.Food/Food.md",
+    "PDF/4.Technology/支线任务.md",
     "PDF/4.Technology/支线/木工全书 (英国DK出版社).pdf",
     "PDF/4.Technology/支线/木工从新手到高手.pdf",
     "PDF/4.Technology/木工从新手到高手.pdf",
     "PDF/4.Technology/支线/[草编制作技法].唐家路.扫描版.pdf",
     "PDF/4.Technology/支线",
     "PDF/2.Survival/2.3.Shelter/Shelter.md",
-    "PDF/3.Rebuild/参考资料.md",
-    "PDF/3.Rebuild/Rebuild.md",
-    "ReadMe4Obsidian.md",
     "PDF/7. 方舟计划/方舟计划.md",
     "PDF/7. 方舟计划/家庭应急物资储备清单.pdf",
-    "PDF/4.Technology/支线任务.md",
     "PDF/4.Technology/未来?.md",
     "PDF/4.Technology/1. 农耕生存手册.md",
     "PDF/7. 方舟计划/火种.md",
     "PDF/7. 方舟计划/物资.md",
-    "README.md",
-    "PDF/2.Survival/2.3.Shelter",
-    "Novel/碳基生物大联盟.md",
-    "PDF/2.Survival/2.1.Water/Water.md",
-    "PDF/2.Survival/2.2.Food/Food.md",
-    "PDF/2.Survival/2.2.Food/钓鱼方法大全.pdf",
-    "PDF/2.Survival/2.2.Food/野外维生食物.pdf",
-    "PDF/4.Technology/0. 科技树.md",
-    "PDF/2.Survival/Alternatives/SDU新手指南.pdf",
-    "PDF/2.Survival/Alternatives/SDU新手指南(1).pdf",
-    "PDF/2.Survival/地下水源的勘察和土法打井.Water/Water.md",
-    "Novel/Epic.md",
-    "PDF/4.Technology/1.1 氮肥.md",
-    "PDF/5. Material/培育硝石.md",
-    "PDF/5. Material/硝酸钾.md",
-    "PDF/6.Electronic/铅酸电池.md",
-    "PDF/6.Electronic/Electronic.md",
-    "PDF/5. Material/硫酸.md",
-    "PDF/5. Material/Index.md",
-    "PDF/4.Technology/2. 快速步入工业社会.md"
+    "PDF/2.Survival/2.3.Shelter"
   ]
 }
