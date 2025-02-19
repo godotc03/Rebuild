@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "d22e0c112e150633",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d30798c0c2c9987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "276f5dbd85e115a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/3.Rebuild/Rebuild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rebuild"
+            }
+          },
+          {
+            "id": "147c2caaae2964e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/2.Survival/Survival.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Survival"
+            }
+          },
+          {
+            "id": "2975271fc7e5c1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/2.Survival/Survival_Gemini.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Survival_Gemini"
+            }
+          },
+          {
+            "id": "00317d069852a9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF/4.Technology/支线任务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "支线任务"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "015100e3c2fc4e30",
+    "type": "split",
+    "children": [
+      {
+        "id": "784f3b34464bda76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828cd8a3ce1161b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3d6d9b1c9adc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c0bd6828bf926ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da2316441079d933",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74317882c01de2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aae923ac1faa6df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDF/3.Knowledge/科技树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 科技树"
+            }
+          },
+          {
+            "id": "ef378235a06a2de1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDF/3.Knowledge/科技树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 科技树"
+            }
+          },
+          {
+            "id": "2f5a613ff6fc625b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61a8c3ed48f94ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PDF/3.Knowledge/科技树.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 科技树"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "00317d069852a9c5",
+  "lastOpenFiles": [
+    "Image/Domain of Science/第五届索尔维会议照片.png",
+    "Image/Domain of Science/the-donut-of-knowledge-1_1060x1060@2x.webp",
+    "Image/Domain of Science/map-of-physics_updated8-23_site-1_1060x1060@2x.webp",
+    "Image/Domain of Science/map-of-computer-science-1_1060x1060@2x.webp",
+    "Image/Domain of Science/DOS-the-map-of-chemistry-site-1_1060x1060@2x.webp",
+    "Image/Domain of Science/DOS-the-map-of-biology-site-1_1060x1060@2x.webp",
+    "Image/Domain of Science/dos-mathematicsnotationcheatsheet-site-1_1060x1060@2x.webp",
+    "Image/Domain of Science/dos-mapoftheuniverseUPDATE-site-1_15ef890c-4923-40c0-bba9-d03f97079805_1060x1060@2x.webp",
+    "Image/Domain of Science/dos-mapofquantumphysics-site-v3-1copy_1060x1060@2x.webp",
+    "Image/Domain of Science/dos-mapofquantumcomputing-site-2_1060x1060@2x.webp",
+    "Image/Domain of Science/dos-mapofmathematicsUPDATE-site-1_1060x1060@2x.webp",
+    "Image/Domain of Science",
+    "Image/untitled folder",
+    "PDF/6.Electronic/ARRL.业余无线电手册.pdf",
+    "PDF/1.Overview/世界重启：大灾变后，如何快速再造人类文明.pdf",
+    "PDF/4.Technology/未来.md",
+    "ReadMe4Obsidian.md",
+    "README.md",
+    "PDF/2.Survival/2.2.Food/中国常见植物野外识别手册  衡山册.pdf",
+    "PDF/2.Survival/2.2.Food/中国常见植物野外识别手册  衡山册_14033873.pdf",
+    "PDF/2.Survival/Survival_30D.md",
+    "Novel/碳基生物大联盟.md",
+    "Novel/Epic.md",
+    "PDF/2.Survival/Survival_Gemini.md",
+    "PDF/4.Technology/Technology_Gemini.md",
+    "PDF/2.Survival/Survival.md",
+    "PDF/2.Survival/Alternatives/硬核生存指南.pdf",
+    "PDF/4.Technology/0. 科技树.md",
+    "PDF/3.Rebuild/Rebuild_gemini.md",
+    "PDF/3.Rebuild/Rebuild.md",
+    "PDF/3.Rebuild/参考资料.md",
+    "PDF/6.Electronic/铅酸电池.md",
+    "PDF/6.Electronic/Electronic_deepseek.md",
+    "PDF/6.Electronic/Electronic.md",
+    "PDF/2.Survival/东京防灾.pdf",
+    "PDF/2.Survival/非常时期城市生存指南.pdf",
+    "PDF/2.Survival/2.1.Water/Water.md",
+    "PDF/2.Survival/2.1.Water/Water_deepseek.md",
+    "PDF/2.Survival/2.2.Food/Food_deepseek.md",
+    "PDF/2.Survival/2.2.Food/Food.md",
+    "PDF/4.Technology/支线任务.md",
+    "PDF/4.Technology/支线/木工全书 (英国DK出版社).pdf",
+    "PDF/2.Survival/2.3.Shelter/Shelter.md",
+    "PDF/7. 方舟计划/方舟计划.md",
+    "PDF/4.Technology/未来?.md",
+    "PDF/4.Technology/1. 农耕生存手册.md"
+  ]
+}
